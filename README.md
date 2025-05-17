@@ -1,7 +1,8 @@
 
 # Exp - 2 LIBRARY MANAGEMENT SYSTEM
 
-# AIM: To draw a UML diagram for a library management system
+# AIM:
+To draw a UML diagram for a library management system
 
 # SRS (Procedure):
 Actors Used-:
